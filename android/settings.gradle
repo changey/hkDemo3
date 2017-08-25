@@ -1,0 +1,3 @@
+rootProject.name = 'hkDemo2'
+
+include ':app'
